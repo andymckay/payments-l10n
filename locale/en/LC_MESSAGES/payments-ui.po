@@ -3,12 +3,12 @@ msgstr ""
 "Project-Id-Version: payments-l 10n\n"
 "Language-Team: none\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2015-08-12 17:47+0000\n"
+"PO-Revision-Date: 2015-08-18 21:19+0000\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2015-08-12 17:47+0000\n"
+"POT-Creation-Date: 2015-08-18 21:19+0000\n"
 "Last-Translator: Automatically generated\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -60,6 +60,8 @@ msgstr "Signing in"
 
 #: public/dist/payment.bundle.js:1528 public/dist/management.bundle.min.js:49
 #: public/dist/payment.bundle.js:1532 public/dist/transaction.bundle.min.js:49
+#: public/dist/management.bundle.min.js:1
+#: public/dist/transaction.bundle.min.js:1
 msgid "Loading"
 msgstr "Loading"
 
@@ -255,3 +257,31 @@ msgstr "Close"
 #: public/dist/management.bundle.min.js:56
 msgid "Receipts & History"
 msgstr "Receipts & History"
+
+#: public/dist/management.bundle.min.js:49
+msgid "Add Card"
+msgstr "Add Card"
+
+#: public/dist/management.bundle.min.js:55
+msgid "Delete Card"
+msgstr "Delete Card"
+
+#: public/dist/management.bundle.min.js:55
+msgid "My account"
+msgstr "My account"
+
+#: public/dist/management.bundle.min.js:55
+msgid "Edit my account"
+msgstr "Edit my account"
+
+#: public/dist/management.bundle.min.js:56
+msgid "month"
+msgstr "month"
+
+#: public/dist/management.bundle.min.js:56
+msgid "Receipts and history"
+msgstr "Receipts and history"
+
+#: public/dist/management.bundle.min.js:56
+msgid "Payment methods"
+msgstr "Payment methods"
